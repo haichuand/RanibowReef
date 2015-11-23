@@ -1,0 +1,9 @@
+Reef King,9750
+Jasper,5380
+Catherine Jones,2700
+Jason Lee,1945
+Elizabeth Baldwin,1830
+Reef Player,1030
+Jack Snowman,1000
+Newbie player,800
+000000,570
